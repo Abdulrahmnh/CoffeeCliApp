@@ -19,6 +19,28 @@ namespace CoffeeCliApp
 
             String input = Console.ReadLine();
 
+            switch (input)
+            {
+                case "Small":
+                   Console.WriteLine("You orderd a Small Coffee");
+                   Console.WriteLine("Total: $3");
+                    break;
+
+                case "Medium":
+                    Console.WriteLine("You orderd a Medium Coffee");
+                    Console.WriteLine("Tottal: $5");
+                    break;
+
+                case "Large":
+                    Console.WriteLine("You orderd a Medium Coffee");
+                    Console.WriteLine("Tottal: $5");
+                    break;
+
+                default:
+                    Console.WriteLine("Your choice is unavailbale");
+                    break;
+            }
+            /*
             if (input == "Small")
             {
                 Console.WriteLine("You orderd a Small Coffee");
@@ -38,7 +60,7 @@ namespace CoffeeCliApp
             {
                 Console.WriteLine("Your choice is unavailbale");
             }
-
+            */
             Console.ReadKey();
 
         }
