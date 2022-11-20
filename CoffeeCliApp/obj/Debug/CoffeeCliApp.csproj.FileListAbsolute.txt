@@ -1,0 +1,7 @@
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\bin\Debug\CoffeeCliApp.exe.config
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\bin\Debug\CoffeeCliApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\bin\Debug\CoffeeCliApp.pdb
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\obj\Debug\CoffeeCliApp.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\obj\Debug\CoffeeCliApp.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\obj\Debug\CoffeeCliApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\CoffeeCliApp\CoffeeCliApp\obj\Debug\CoffeeCliApp.pdb
